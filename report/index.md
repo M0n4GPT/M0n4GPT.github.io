@@ -67,6 +67,7 @@ _梅雁雯_
 
 ### 落地位置被卡住
 场景：撕裂地地图。一次落地的时候直接卡在了地图死角（图示石头缝）中，视角上看是类似腾空的状态，不管从哪个方向都无法离开被完全困住，想自杀也死不掉。
+<img src="https://example.com/image.jpg" alt="落地bug" width="300" />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/视频ID" frameborder="0" allowfullscreen></iframe>
 
