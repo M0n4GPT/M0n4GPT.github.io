@@ -15,7 +15,7 @@ _梅雁雯_
 
 **段位达成**: 
 
-<img src="https://github.com/M0n4GPT/M0n4GPT.github.io/blob/main/report/img/level.png" alt="段位" width="700" />
+<img src="https://github.com/M0n4GPT/M0n4GPT.github.io/blob/main/report/img/level.png?raw=true" alt="段位" width="700" />
 
 **英雄体验**: 梅歇尔、露辛达、鸭鸭、麦琪、桃桃……
 
@@ -60,7 +60,7 @@ _梅雁雯_
 
 **载具**：我个人最喜欢这辆悬浮汽车，手感非常独特。和朋友一起开车时，即使操作不熟练，也能带来很高的娱乐效果。炮车也非常新奇有趣，但我尝试了一下，感觉每次都没有打中敌人，更多的是娱乐性大于实用性。
 
-<img src="https://github.com/M0n4GPT/M0n4GPT.github.io/blob/main/report/img/car.png" alt="载具" width="700" />
+<img src="https://github.com/M0n4GPT/M0n4GPT.github.io/blob/main/report/img/car.png?raw=true" alt="载具" width="700" />
 
 **叭嘀**：有点类似于捡道具，最喜欢使用扫扫葵，实用性很强，实际扫的范围也比预期大，能有效加快游戏节奏。不过，携带叭嘀也会导致自己位置暴露，所以整体感觉虽然有特色，但没有带来特别强的记忆点或节目效果。尽管介绍中提到它有很多炫酷的实用功能，但在实际对战中，似乎很少遇到能够真正有效利用叭嘀的情况。
 
@@ -75,7 +75,7 @@ _梅雁雯_
 
 **成因分析**：游戏的碰撞系统可能在某些地形上未正确检测到落地位置，使得角色被困在错误的地形网格中。该区域可能没有正确设定通行路径，导致角色被错误地判定为“悬空”或“无路可走”状态。应该属于地图设计缺陷而导致角色卡死。
 
-<img src="https://github.com/M0n4GPT/M0n4GPT.github.io/blob/main/report/img/jump-bug.png" alt="落地bug" width="700" />
+<img src="https://github.com/M0n4GPT/M0n4GPT.github.io/blob/main/report/img/jump-bug.png?raw=true" alt="落地bug" width="700" />
 
 视频：（点击跳转）（第一个不行的话第二个应该行）
 
