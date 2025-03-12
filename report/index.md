@@ -13,7 +13,9 @@ _梅雁雯_
 
 **体验环境**: Iphone移动端V2.6.4.7
 
-**段位达成**: <img src="https://example.com/image.jpg" alt="段位" width="300" />
+**段位达成**: 
+
+<img src="https://github.com/M0n4GPT/M0n4GPT.github.io/blob/main/report/img/level.png" alt="段位" width="700" />
 
 **英雄体验**: 梅歇尔、露辛达、鸭鸭、麦琪、桃桃……
 
@@ -55,7 +57,9 @@ _梅雁雯_
 
 **经验温泉**：刚开始还没有概念经验温泉能用来干什么。实际观察下来，好像新手局注意到这一功能的玩家并不多，很多人即使经过了也会选择忽略。我个人非常喜欢打卡经验温泉，因为其实往往实际对局中对经验温泉竞争并没有很多，只要去了基本上必能无风险+600经验，最大的好处就是体现在比局内的其他玩家更快升级技能以及叠更多层护甲。会在前期很快取得比较大的领先优势。
 
-**载具**：个人最喜欢这辆悬浮汽车，很有特点的手感，和朋友一起开车即使操作很菜也很有娱乐效果。炮车也很新奇有趣，可惜体验了一下没一次打中，感觉娱乐性大于实用性。<img src="https://example.com/image.jpg" alt="载具" width="300" />
+**载具**：个人最喜欢这辆悬浮汽车，很有特点的手感，和朋友一起开车即使操作很菜也很有娱乐效果。炮车也很新奇有趣，可惜体验了一下没一次打中，感觉娱乐性大于实用性。
+
+<img src="https://github.com/M0n4GPT/M0n4GPT.github.io/blob/main/report/img/car.png" alt="载具" width="700" />
 
 **叭嘀**：有点类似于捡道具，最喜欢扫扫葵，实用，实际扫的范围相对来说比想象中大，能加快游戏节奏。但携带叭嘀也会导致自身位置暴露，所以整体感觉有特色但又没有能带来很强的记忆点或者节目效果。看介绍还有很多实用的功能似乎非常炫酷，但不知道为什么实际对战中好像遇上能把叭嘀玩得很有效果的情况并不多。
 
@@ -67,8 +71,10 @@ _梅雁雯_
 
 ### 落地位置被卡住
 场景：撕裂地地图。一次落地的时候直接卡在了地图死角（图示石头缝）中，视角上看是类似腾空的状态，不管从哪个方向都无法离开被完全困住，想自杀也死不掉。
-<img src="https://example.com/image.jpg" alt="落地bug" width="300" />
 
+<img src="https://github.com/M0n4GPT/M0n4GPT.github.io/blob/main/report/img/jump-bug.png" alt="落地bug" width="700" />
+
+视频：
 <iframe width="560" height="315" src="https://www.youtube.com/embed/视频ID" frameborder="0" allowfullscreen></iframe>
 
 
